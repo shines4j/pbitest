@@ -79,6 +79,9 @@ table SalesData
 		formatString: General Date
 		lineageTag: 89bcc329-ccd3-4a91-9260-dd644e80ba69
 
+	measure 'Test measure' = "Test"
+		lineageTag: 8d42bbb3-8b55-42ab-a30f-0c5c7509df24
+
 	column 'Order ID'
 		dataType: string
 		lineageTag: dd283e57-a2cb-40e2-a74c-68a29761460f
